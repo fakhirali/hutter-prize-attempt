@@ -29,7 +29,6 @@ Would [BPE](https://huggingface.co/learn/llm-course/en/chapter6/5) or something 
 
 Techniques that help NNs, run fast and learn quickly. Continual learning is one of them. 
 Pruing, Quantization help too. Learning rate tricks. Should look into [llama2.c](https://github.com/karpathy/llama2.c).
-LoRA? Not really it's for fine tuning. 
 
 NNs require more data to learn better. A way to improve an NN's performance is to get more and better data. 
 Here we don't really have more data. 
